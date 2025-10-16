@@ -9,8 +9,8 @@ body {
 
 /* Header styles */
 h1 {
-    color: #0056b3;
-    text-align: center;
+    color: #000000;
+    text-align: Left;
     margin-bottom: 28px;
 }
 
@@ -25,3 +25,4 @@ a {
     color: #007bff;
     text-decoration: none;
 }
+
