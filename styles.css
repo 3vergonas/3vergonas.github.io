@@ -25,4 +25,9 @@ a {
     color: #007bff;
     text-decoration: none;
 }
+/* image size */
+img {
+  max-width: 100%;
+  height: auto;
+}
 
